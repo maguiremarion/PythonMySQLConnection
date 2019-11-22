@@ -1,4 +1,3 @@
-import requests                         #allows to send and get info to or from an endpoint
 import mysql.connector                  #allows you to connect to a mySQL db
 
 def main():
