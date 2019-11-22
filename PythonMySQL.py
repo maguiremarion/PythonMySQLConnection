@@ -1,3 +1,8 @@
+# PythonMySQL.py
+# Author - Maguire Marion
+# This program establishes how to make a connection to a MySQL db,
+# send SQL queries to the db, and receive info back from the queries
+
 import mysql.connector                  #allows you to connect to a mySQL db
 
 def main():
